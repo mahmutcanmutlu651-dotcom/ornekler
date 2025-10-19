@@ -16,11 +16,9 @@ int main()
     else if(a<b){
         printf("a,b'den kucuktur.");
     }
-    else if(a = b){
-        printf("a,b'ye eşittir.");
-    }
+    
     else{
-        printf("sayi geçersiz.");
+        printf("a b'ye eşittir .");
     }
     
     return 0;
